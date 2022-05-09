@@ -510,6 +510,16 @@
     margin-left: 25%;
     margin-top: 3%;
     border-radius: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.miss .dad {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6%;
 }
 .footer .boxe1 .one{
     flex-basis: 20%;
