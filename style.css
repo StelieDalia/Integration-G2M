@@ -497,7 +497,7 @@
     background-image: url("pattern.png");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 140vh;
+    height: 170vh;
     display: flex;
     flex-direction: column;
     color: white;
@@ -505,7 +505,7 @@
 }
 .footer .miss {
     background-color: white;
-    height: 1000px;
+    height: 1100px;
     width: 50%;
     margin-left: 25%;
     margin-top: 3%;
