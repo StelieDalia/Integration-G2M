@@ -675,7 +675,6 @@ input:checked + .slide-container .nav label { display: block; }
     justify-content: center; 
     align-items: center;
 }
-
 .footer {
     background-image: url("pattern.png");
     background-repeat: no-repeat;
